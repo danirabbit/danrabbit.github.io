@@ -6,7 +6,7 @@
     "test": "stylelint **/*.css && ./node_modules/.bin/eslint js/*.js"
   },
   "devDependencies": {
-    "eslint": "^3.3.1",
+    "eslint": "^7.5.0",
     "eslint-config-jquery": "^1.0.0",
     "eslint-config-standard": "^6.1.0",
     "eslint-plugin-standard": "^2.0.1",
